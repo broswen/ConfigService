@@ -1,0 +1,9 @@
+name: SystemA-prod
+version: 1.0.0
+items:
+  - item1
+  - item2
+  - item3
+info:
+  info1: test
+  info2: anothertest
