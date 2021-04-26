@@ -39,6 +39,6 @@ info:
     }
 }
 ```
-
+![postman](./images/postman.png)
 
 
