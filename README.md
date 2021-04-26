@@ -6,7 +6,7 @@ Protected with API Keys and throttling.
 
 
 
-1. Define configuration with YAML and save as systemname/config.stage.yml in the S3 Bucket.
+1. Define configuration with YAML and save as `systemname/config.stage.yml` in the S3 Bucket.
 
 ```yaml
 name: SystemA-dev
